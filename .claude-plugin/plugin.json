@@ -1,0 +1,25 @@
+{
+  "name": "erstkunden-skill",
+  "description": "Elf Claude-Skills, die dir zahlende Kunden bringen, bevor dein Produkt fertig ist: Marktforschung, Demo, Entscheider finden, Pitch, Vorverkauf, Anforderungen, Angebot, Preise, Nachfassen, Einwände und Launch-Plan.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Christopher Thanisch",
+    "url": "https://thanisch.co"
+  },
+  "homepage": "https://thanisch.co/wissen/guides/erstkunden-skill-claude",
+  "repository": "https://github.com/Ultra-Smashed/erstkunden-skill",
+  "license": "MIT",
+  "keywords": [
+    "vorverkauf",
+    "presale",
+    "validierung",
+    "marktforschung",
+    "demo",
+    "pitch",
+    "preise",
+    "gruender",
+    "selbststaendig",
+    "deutsch",
+    "claude-skills"
+  ]
+}

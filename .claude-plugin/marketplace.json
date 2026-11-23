@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "erstkunden-skill",
+  "description": "Erst verkaufen, dann bauen: Problem finden, Demo zeigen, Vorverkauf, Produkt nach den Anforderungen zahlender Kunden.",
+  "owner": {
+    "name": "Christopher Thanisch",
+    "url": "https://thanisch.co"
+  },
+  "plugins": [
+    {
+      "name": "erstkunden-skill",
+      "description": "Elf Skills: /marktforschung, /demo, /entscheider, /pitch, /vorverkauf, /anforderungen, /angebot, /preise, /nachfassen, /einwaende und /launch-plan, mit zwei Python-Tools ohne Abhängigkeiten.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
